@@ -1,4 +1,43 @@
 ### Brief About The App 
+# 🎓 SkillSwap – Learn by Teaching
+
+SkillSwap is a simple, full-stack web platform that helps people **exchange skills** directly—no fees, just mutual learning. Whether you want to learn Photoshop or teach Python, SkillSwap connects you with like-minded learners and teachers based on your interests and availability.
+
+---
+
+## 🚀 Features
+
+### 👤 User Profile
+- Add name, profile picture (optional)
+- List skills you **can teach**
+- List skills you **want to learn**
+- Set your **availability**
+- Option to keep profile public or private
+
+### 🔍 Browse & Search
+- Filter users by skills they teach (e.g., “Photoshop”)
+- View profiles and match based on learning needs
+
+### 🔁 Skill Swap Requests
+- Send a **Swap Request** to any matching user
+- Requests can be **Accepted** ✅ or **Rejected** ❌
+- View your outgoing & incoming requests in dashboard
+- See current status: Pending / Accepted / Rejected
+
+## ⚙️ Tech Stack
+
+### Frontend
+- React + Tailwind CSS
+- Axios for API calls
+- React Router DOM
+
+### Backend
+- Node.js + Express
+- MongoDB Atlas
+- JWT Authentication
+- Cloudinary (for user image upload)
+- Nodemailer (for email notifications)
+- Google OAuth 2.0 *(Optional)*
 ### Frontend Setup
 
 ```bash
