@@ -24,6 +24,18 @@ SkillSwap is a simple, full-stack web platform that helps people **exchange skil
 - View your outgoing & incoming requests in dashboard
 - See current status: Pending / Accepted / Rejected
 
+### Badge System
+- Bronze, Silver, Gold, Platinum levels
+
+### User Testimonials
+- Real community feedback
+
+### Professional Design
+- Modern, clean, and user-friendly
+
+### Mobile Responsive
+- Works on all screen sizes
+
 ## ⚙️ Tech Stack
 
 ### Frontend
