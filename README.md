@@ -20,9 +20,11 @@ SkillSwap is a simple, full-stack web platform that helps people **exchange skil
 
 ### Skill Swap Requests
 - Send a **Swap Request** to any matching user
-- Requests can be **Accepted** ✅ or **Rejected** ❌
+- Requests can be **Accepted**  or **Rejected** 
 - View your outgoing & incoming requests in dashboard
 - See current status: Pending / Accepted / Rejected
+
+#### UNIQUE FEATURES
 
 ### Badge System
 - Bronze, Silver, Gold, Platinum levels
